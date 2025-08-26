@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "be7191572de32f5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e02ad643a62aff15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22fbd1d4a00e59d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a21c046a7157f191",
+    "type": "split",
+    "children": [
+      {
+        "id": "e197809aed50efd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52464c64989fe3f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "204b1a981743804d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21fc9213cafa3377",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbb53f7f24ea1c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "68653ebd8d5a50ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "683ffbaf8feef2b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 - Template/Main Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main Notes"
+            }
+          },
+          {
+            "id": "734bc4f0cb494a03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Template/Main Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main Notes"
+            }
+          },
+          {
+            "id": "2347a998dc583073",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d60ca25d40e10057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Template/Main Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "52464c64989fe3f4",
+  "lastOpenFiles": [
+    "hi",
+    "push_notes.sh",
+    "Untitled 8.canvas",
+    "Untitled.base",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "2025-08-26.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "2025-08-13.md",
+    "17 Aug 2025.md",
+    "Typescript/TS  Setup.md",
+    "Typescript/Typescript-1.pdf",
+    "DEV/DEV.md",
+    "Setup/Untitled.md",
+    "DEV",
+    "Setup/Setup.md",
+    "Setup",
+    "Typescript/Notes - 1.md",
+    "Typescript",
+    "5 - Template/Main Notes.md",
+    "5 - Template/{{Title}}.md",
+    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes/Typescript.md",
+    "6 - Main Notes/my name.md",
+    "6 - Main Notes/Untitled 1.md",
+    "Welcome.md",
+    "6 - Main Notes",
+    "5 - Template",
+    "4 - Index",
+    "3 - Tags"
+  ]
+}
